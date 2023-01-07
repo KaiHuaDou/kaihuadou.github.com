@@ -1,0 +1,19 @@
+{
+  "name": "kaihuadou.github.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "proxy.js",
+  "scripts": {
+    "test": "node proxy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaiHuaDou/kaihuadou.github.com.git"
+  },
+  "author": "KaiHuaDou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaiHuaDou/kaihuadou.github.com/issues"
+  },
+  "homepage": "https://github.com/KaiHuaDou/kaihuadou.github.com#readme"
+}

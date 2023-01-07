@@ -5,7 +5,6 @@ const gitalk = new Gitalk({
     owner: 'KaiHuaDou',
     admin: ['KaiHuaDou'],
     id: (location.pathname).split("/").pop().substring(0, 49),
-    proxy: 'https://static.appgao.cate.fun/login/oauth/access_token',
     distractionFreeMode: false
 });
 
