@@ -4,7 +4,7 @@ const gitalk = new Gitalk({
     repo: 'KaiHuaDou.github.com',
     owner: 'KaiHuaDou',
     admin: ['KaiHuaDou'],
-    id: location.pathname,
+    id: location.href,
     distractionFreeMode: false
 });
 
